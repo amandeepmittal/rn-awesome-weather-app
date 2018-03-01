@@ -7,6 +7,7 @@
     "sdkVersion": "25.0.0",
     "platforms": ["ios", "android"],
     "version": "1.0.0",
+    "githubUrl": "https://github.com/amandeepmittal/rn-awesome-weather-app",
     "orientation": "portrait",
     "icon": "./assets/awa-1024.png",
     "splash": {

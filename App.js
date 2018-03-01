@@ -28,7 +28,6 @@ export default class App extends React.Component {
             temp: Math.round(res.temp),
             humidity: res.humidity,
             weather: res.weather
-            // weather: 'Default'
           })
         ),
       error => alert(error),

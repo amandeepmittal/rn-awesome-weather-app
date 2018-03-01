@@ -6,7 +6,7 @@ This app accurately tells the weather of your device's current location and humi
 
 **Demo:**
 
-* [Expo Store]()
+* [On Expo Store](https://expo.io/@amanhimself/awesome-weather-app) | Just download Expo client for your iOS/Android device and visit the link for further instructions.
 
 ### Build With
 
